@@ -25,3 +25,9 @@
     background-color: #b20f11;
 
 }
+
+a:link {
+  color: #780b0c;
+  background-color: transparent;
+  text-decoration: none;
+}
