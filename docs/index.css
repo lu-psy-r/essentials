@@ -15,6 +15,26 @@
   width:100%
 }
 
+.year-one {
+  background-color: #B53737;
+  border-color: #B53737;
+}
+
+.year-two {
+  background-color: #BE5151;
+  border-color: #BE5151;
+}
+
+.year-three {
+  background-color: #C76B6B;
+  border-color: #C76B6B;
+}
+
+.year-msc {
+  background-color: #D08585;
+  border-color: #D08585;
+}
+
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .accordion-button:hover, .accordion-button:not(.collapsed) {
     color: #fff;
     background-color: #780b0c
