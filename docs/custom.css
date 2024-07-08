@@ -38,6 +38,12 @@ $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
 
+$general:   #B53737 !default;
+$yearone:   #BE5151 !default;
+$yeartwo:   #C76B6B !default;
+$yearthree: #D08585 !default;
+$yearmsc:   #D99F9F !default;
+
 $min-contrast-ratio:   1.85 !default;
 
 // Body
