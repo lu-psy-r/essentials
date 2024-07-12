@@ -8,31 +8,31 @@
 
 .btn-landing {
   color: #fff;
-  background-color: #44BB99;
-  border-color:     #44BB99;
+  background-color: #D08585;
+  border-color: #D08585;
   border-radius: 5vw;
   margin: 5px;
   width:100%
 }
 
 .year-one {
-  background-color: #BBCC33;
-  border-color:     #BBCC33;
+  background-color: #b20f11;
+  border-color: #b20f11;
 }
 
 .year-two {
-  background-color: #77AADD;
-  border-color:     #77AADD;
+  background-color: #B53737;
+  border-color: #B53737;
 }
 
 .year-three {
-  background-color: #EE8866;
-  border-color:     #EE8866;
+  background-color: #BE5151;
+  border-color: #BE5151;
 }
 
 .year-msc {
-  background-color: #FFAABB;
-  border-color:     #FFAABB;
+  background-color: #C76B6B;
+  border-color: #C76B6B;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .accordion-button:hover, .accordion-button:not(.collapsed) {
