@@ -41,15 +41,9 @@
 }
 
 .navbar, .navbar-dark, .headroom {
-    color: #b20f11;
+    color: $white;
     background-color: #b20f11;
 
-}
-
-a:link {
-  color: #780b0c;
-  background-color: transparent;
-  text-decoration: none;
 }
 
 // For sorting out consistent colours of the navbar
@@ -61,4 +55,10 @@ a.nav-link:hover {
 }
 a.navbar-brand {
   color: $yellow;
+}
+
+a:link {
+  color: #780b0c;
+  background-color: transparent;
+  text-decoration: none;
 }
