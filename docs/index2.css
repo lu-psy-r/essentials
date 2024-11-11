@@ -1,0 +1,53 @@
+
+/* Custom*/
+
+/*this removes the title on the page*/
+.quarto-title > h1.title {
+  opacity: 0 !important;
+}
+
+.btn-landing {
+  color: #fff;
+  background-color: #D08585;
+  border-color: #D08585;
+  border-radius: 5vw;
+  margin: 5px;
+  width:100%
+}
+
+.year-one {
+  background-color: #b20f11;
+  border-color: #b20f11;
+}
+
+.year-two {
+  background-color: #B53737;
+  border-color: #B53737;
+}
+
+.year-three {
+  background-color: #BE5151;
+  border-color: #BE5151;
+}
+
+.year-msc {
+  background-color: #C76B6B;
+  border-color: #C76B6B;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .accordion-button:hover, .accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: #780b0c
+}
+
+.navbar, .navbar-dark, .headroom {
+    color: #b20f11;
+    background-color: #b20f11;
+
+}
+
+a:link {
+  color: #780b0c;
+  background-color: transparent;
+  text-decoration: none;
+}
