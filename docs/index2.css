@@ -47,14 +47,12 @@
 }
 
 // For sorting out consistent colours of the navbar
-a.nav-link {
+.nav-link {
   color: $grey-300; !important;
 }
-a.nav-link:hover {
+
+.nav-link:hover {
   color: $white;
-}
-a.navbar-brand {
-  color: $yellow;
 }
 
 a:link {
